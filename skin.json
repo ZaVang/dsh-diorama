@@ -1,0 +1,25 @@
+{
+  "id": "diorama",
+  "name": "DSH Diorama · 角色舞台",
+  "nameEn": "DSH Diorama",
+  "author": "dsh-plugins",
+  "tagline": "两套角色皮肤：雪乃暖阳 / 隐秘年代志，含可编辑看板 + 素材分享",
+  "description": "DSH Diorama 角色舞台：雪乃·暖阳日常（双角色立绘+表情贴纸）与隐秘年代志（双角色+贴纸）。右下角 dropdown 切换/还原官方；「✎ 编辑装饰」打开可视化看板——拖动、缩放、旋转、坐标精调、锚定切换、上传素材；导出/导入装饰包（素材+布局打包分享，导入后自动打开编辑器可继续调整）。",
+  "tags": [
+    "skin",
+    "character",
+    "diorama",
+    "editor",
+    "drag",
+    "stickers",
+    "yukinoshita",
+    "occult",
+    "share",
+    "export",
+    "import"
+  ],
+  "accent": "#d49a64",
+  "bodyAttr": "data-dsh-yukino-warm",
+  "package": "dsh-diorama",
+  "order": 10
+}
